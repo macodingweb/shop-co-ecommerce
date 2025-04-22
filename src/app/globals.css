@@ -1,1 +1,35 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Integral CF";
+  src: url(../fonts/Fontspring-DEMO-integralcf-regular.otf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Integral CF";
+  src: url(../fonts/Fontspring-DEMO-integralcf-medium.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Integral CF";
+  src: url(../fonts/Fontspring-DEMO-integralcf-heavy.otf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Integral CF";
+  src: url(../fonts/Fontspring-DEMO-integralcf-bold.otf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Integral CF";
+  src: url(../fonts/Fontspring-DEMO-integralcf-extrabold.otf);
+  font-weight: 800;
+}
+
+body {
+  font-family: "Integral CF", sans-serif;
+}
