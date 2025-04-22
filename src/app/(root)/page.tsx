@@ -1,3 +1,5 @@
+import BrowseBy from "@/components/BrowseBy";
+import Footer from "@/components/Footer";
 import Landing from "@/components/Landing";
 import NewArrivals from "@/components/NewArrivals";
 import Partners from "@/components/Partners";
@@ -10,6 +12,8 @@ export default function Page() {
       <Partners />
       <NewArrivals />
       <TopSelling />
+      <BrowseBy />
+      <Footer />
     </>
   )
 }
