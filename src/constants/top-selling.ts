@@ -1,6 +1,6 @@
 export const clothesData = [
   {
-    img: "/clothes/top-1.svg",
+    img: "/clothes/top-1.png",
     text: "Vertical Striped Shirt",
     rate: 5,
     isDiscount: true,
@@ -8,21 +8,21 @@ export const clothesData = [
     price: 232,
   },
   {
-    img: "/clothes/top-2.svg",
+    img: "/clothes/top-2.png",
     text: "Courage Graphic T-shirt",
     rate: 4,
     isDiscount: false,
     price: 145,
   },
   {
-    img: "/clothes/top-3.svg",
+    img: "/clothes/top-3.png",
     text: "Loose Fit Bermuda Shorts",
     rate: 3,
     isDiscount: false,
     price: 80,
   },
   {
-    img: "/clothes/top-4.svg",
+    img: "/clothes/top-4.png",
     text: "Faded Skinny Jeans",
     rate: 4.5,
     isDiscount: false,

@@ -18,7 +18,7 @@ export function ProductCard ({ data } : { data: Data }) {
 
   return (
     <Link href={"/"} className="card">
-      <div className="product-img w-full bg-[#F0EEED] rounded-lg overflow-hidden relative transition-all hover:scale-90 hover:rotate-12">
+      <div className="product-img w-full h-2/3 bg-[#F0EEED] rounded-lg overflow-hidden relative transition-all hover:scale-90 hover:rotate-12">
         <Image src={data.img} alt={data.text} width={300} height={0} className="w-fit object-cover mx-auto" />
       </div>
       <div className="product-info py-3 font-sans font-semibold grid gap-1">
