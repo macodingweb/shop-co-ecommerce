@@ -1,7 +1,7 @@
 import BrowseBy from "@/components/BrowseBy";
-import Footer from "@/components/Footer";
 import Landing from "@/components/Landing";
 import NewArrivals from "@/components/NewArrivals";
+import OurHappyCustomers from "@/components/OurHappyCustomers";
 import Partners from "@/components/Partners";
 import TopSelling from "@/components/TopSelling";
 
@@ -13,7 +13,7 @@ export default function Page() {
       <NewArrivals />
       <TopSelling />
       <BrowseBy />
-      <Footer />
+      <OurHappyCustomers />
     </>
   )
 }

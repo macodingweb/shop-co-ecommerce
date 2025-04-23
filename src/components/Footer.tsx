@@ -6,7 +6,7 @@ import { MdOutlineMail } from "react-icons/md";
 
 export default function Footer() {
   return (
-    <footer className="w-full bg-[#F0F0F0] mt-[120px]">
+    <footer className="w-full bg-[#F0F0F0] mt-[140px]">
       <div className="container pb-14 mx-auto px-4 relative">
         <form className="contact-form p-8 w-full max-lg:flex-col max-lg:gap-4 -translate-y-2/4 max-lg:-translate-y-1/4 flex items-center justify-between rounded-2xl bg-black">
           <div className="title text-white font-bold text-[26px] max-lg:text-[22px]">STAY UPTO DATE ABOUT <br /> OUR LATEST OFFERS</div>
